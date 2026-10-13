@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /schoolwebsites/
+
+Sitemap: https://afonsomatosdacruz.be/sitemap.xml
