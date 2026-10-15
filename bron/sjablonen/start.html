@@ -1,0 +1,45 @@
+<section class="held raster">
+<h1 class="naam"><span class="regel r1">Afonso</span> <span class="regel r2">Matos</span> <span class="regel r3">da Cruz</span></h1>
+<p class="slogan">{{start.slogan}}</p>
+<div class="feiten"><p>{{start.feit1}}</p><p>{{start.feit2}}</p><p>{{start.feit3}}</p></div>
+</section>
+
+<section class="raster" aria-labelledby="geselecteerd">
+<h2 id="geselecteerd" style="grid-column:1/-1">{{start.werk_kop}}</h2>
+<div class="tegels drie">{{start_tegels}}</div>
+</section>
+
+<section id="over" class="raster">
+<div class="foto">{{over_foto}}</div>
+<div class="tekst">
+<h2>{{over.kop}}</h2>
+<p class="grote-tekst">{{over.intro}}</p>
+<p>{{over.p1}}</p>
+<p>{{over.p2}}</p>
+<p>{{over.p3}}</p>
+</div>
+<div class="lijsten">
+<div><h3>{{over.opleiding}}</h3><ul>{{opleiding_lijst}}</ul><p class="klein">{{over.opleiding_school}}</p></div>
+<div><h3>{{over.software}}</h3><p>{{over.software_lijst}}</p></div>
+<div><h3>{{over.talen}}</h3><p>{{over.talen_lijst}}</p></div>
+<div><h3>{{over.beschikbaar}}</h3><p>{{over.beschikbaar_tekst}}</p><p><a class="tekstlink" href="{{cv_url}}">{{over.cv}}</a></p></div>
+</div>
+</section>
+
+<section id="contact" class="raster">
+<div class="inleiding">
+<h2>{{contact.kop}}</h2>
+<p class="grote-tekst">{{contact.intro}}</p>
+<p><a class="tekstlink" href="mailto:{{email}}">{{email}}</a><br><a class="tekstlink" href="{{instagram}}" target="_blank" rel="noopener">Instagram @afonso.mdc</a></p>
+</div>
+<form action="{{formulier_adres}}" method="post" data-bezig="{{formulier.bezig}}" data-gelukt="{{formulier.gelukt}}" data-mislukt="{{formulier.mislukt}}">
+<label>{{formulier.naam}}<input name="name" autocomplete="name" required></label>
+<label>{{formulier.email}}<input name="email" type="email" autocomplete="email" required></label>
+<label>{{formulier.onderwerp}}<input name="_subject" required></label>
+<label>{{formulier.bericht}}<textarea name="message" required></textarea></label>
+<input class="val" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true">
+<button type="submit">{{formulier.verstuur}}</button>
+<p class="status" role="status"></p>
+<p class="klein">{{formulier.privacy_voor}} <a class="tekstlink" href="{{privacy_url}}">{{formulier.privacy_link}}</a>.</p>
+</form>
+</section>

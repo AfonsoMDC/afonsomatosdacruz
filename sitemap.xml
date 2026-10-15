@@ -1,115 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://afonsomatosdacruz.be/</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/"/>
-    <lastmod>2026-10-10</lastmod>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://afonsomatosdacruz.be/en/</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/"/>
-    <lastmod>2026-10-10</lastmod>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://afonsomatosdacruz.be/archief.html</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/archief.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/archive.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/archief.html"/>
-    <lastmod>2026-10-10</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://afonsomatosdacruz.be/en/archive.html</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/archief.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/archive.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/archief.html"/>
-    <lastmod>2026-10-10</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://afonsomatosdacruz.be/fotografie.html</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/fotografie.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/photography.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/fotografie.html"/>
-    <lastmod>2026-10-10</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://afonsomatosdacruz.be/en/photography.html</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/fotografie.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/photography.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/fotografie.html"/>
-    <lastmod>2026-10-10</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://afonsomatosdacruz.be/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/privacy.html"/>
-    <lastmod>2026-10-10</lastmod>
-    <priority>0.2</priority>
-  </url>
-  <url>
-    <loc>https://afonsomatosdacruz.be/en/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/privacy.html"/>
-    <lastmod>2026-10-10</lastmod>
-    <priority>0.2</priority>
-  </url>
-  <url>
-    <loc>https://afonsomatosdacruz.be/projecten/beeld-twijfel-constructie.html</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/projecten/beeld-twijfel-constructie.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/projects/beeld-twijfel-constructie.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/projecten/beeld-twijfel-constructie.html"/>
-    <lastmod>2026-10-10</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://afonsomatosdacruz.be/en/projects/beeld-twijfel-constructie.html</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/projecten/beeld-twijfel-constructie.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/projects/beeld-twijfel-constructie.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/projecten/beeld-twijfel-constructie.html"/>
-    <lastmod>2026-10-10</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://afonsomatosdacruz.be/projecten/disco-revisited.html</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/projecten/disco-revisited.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/projects/disco-revisited.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/projecten/disco-revisited.html"/>
-    <lastmod>2026-10-10</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://afonsomatosdacruz.be/en/projects/disco-revisited.html</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/projecten/disco-revisited.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/projects/disco-revisited.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/projecten/disco-revisited.html"/>
-    <lastmod>2026-10-10</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://afonsomatosdacruz.be/projecten/badcultuur-oostende.html</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/projecten/badcultuur-oostende.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/projects/ostend-bathing-culture.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/projecten/badcultuur-oostende.html"/>
-    <lastmod>2026-10-10</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://afonsomatosdacruz.be/en/projects/ostend-bathing-culture.html</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/projecten/badcultuur-oostende.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/projects/ostend-bathing-culture.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/projecten/badcultuur-oostende.html"/>
-    <lastmod>2026-10-10</lastmod>
-    <priority>0.8</priority>
-  </url>
+<url><loc>https://afonsomatosdacruz.be/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/"/></url>
+<url><loc>https://afonsomatosdacruz.be/en/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/"/></url>
+<url><loc>https://afonsomatosdacruz.be/fr/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/"/></url>
+<url><loc>https://afonsomatosdacruz.be/werk/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/werk/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/werk/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/werk/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/werk/"/></url>
+<url><loc>https://afonsomatosdacruz.be/en/werk/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/werk/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/werk/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/werk/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/werk/"/></url>
+<url><loc>https://afonsomatosdacruz.be/fr/werk/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/werk/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/werk/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/werk/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/werk/"/></url>
+<url><loc>https://afonsomatosdacruz.be/project/smak/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/project/smak/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/project/smak/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/project/smak/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/project/smak/"/></url>
+<url><loc>https://afonsomatosdacruz.be/en/project/smak/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/project/smak/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/project/smak/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/project/smak/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/project/smak/"/></url>
+<url><loc>https://afonsomatosdacruz.be/fr/project/smak/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/project/smak/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/project/smak/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/project/smak/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/project/smak/"/></url>
+<url><loc>https://afonsomatosdacruz.be/project/disco/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/project/disco/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/project/disco/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/project/disco/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/project/disco/"/></url>
+<url><loc>https://afonsomatosdacruz.be/en/project/disco/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/project/disco/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/project/disco/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/project/disco/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/project/disco/"/></url>
+<url><loc>https://afonsomatosdacruz.be/fr/project/disco/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/project/disco/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/project/disco/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/project/disco/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/project/disco/"/></url>
+<url><loc>https://afonsomatosdacruz.be/project/oostende/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/project/oostende/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/project/oostende/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/project/oostende/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/project/oostende/"/></url>
+<url><loc>https://afonsomatosdacruz.be/en/project/oostende/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/project/oostende/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/project/oostende/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/project/oostende/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/project/oostende/"/></url>
+<url><loc>https://afonsomatosdacruz.be/fr/project/oostende/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/project/oostende/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/project/oostende/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/project/oostende/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/project/oostende/"/></url>
+<url><loc>https://afonsomatosdacruz.be/fotografie/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/fotografie/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/fotografie/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/fotografie/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/fotografie/"/></url>
+<url><loc>https://afonsomatosdacruz.be/en/fotografie/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/fotografie/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/fotografie/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/fotografie/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/fotografie/"/></url>
+<url><loc>https://afonsomatosdacruz.be/fr/fotografie/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/fotografie/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/fotografie/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/fotografie/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/fotografie/"/></url>
+<url><loc>https://afonsomatosdacruz.be/film/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/film/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/film/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/film/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/film/"/></url>
+<url><loc>https://afonsomatosdacruz.be/en/film/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/film/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/film/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/film/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/film/"/></url>
+<url><loc>https://afonsomatosdacruz.be/fr/film/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/film/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/film/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/film/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/film/"/></url>
+<url><loc>https://afonsomatosdacruz.be/privacy/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/privacy/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/privacy/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/privacy/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/privacy/"/></url>
+<url><loc>https://afonsomatosdacruz.be/en/privacy/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/privacy/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/privacy/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/privacy/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/privacy/"/></url>
+<url><loc>https://afonsomatosdacruz.be/fr/privacy/</loc>
+<xhtml:link rel="alternate" hreflang="nl" href="https://afonsomatosdacruz.be/privacy/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://afonsomatosdacruz.be/en/privacy/"/>
+<xhtml:link rel="alternate" hreflang="fr" href="https://afonsomatosdacruz.be/fr/privacy/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://afonsomatosdacruz.be/privacy/"/></url>
 </urlset>
